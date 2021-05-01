@@ -1,0 +1,18 @@
+body{
+    background-image: url("mascarilla.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+#label-container{
+    background-color: rgb(236, 230, 141);
+    
+    font-style: normal;
+    line-height: 'ConCubrebocas';
+    font: 150%;
+}
+.card-body {
+    color:darkorange;
+}
+.car-body{
+    background-color: darkred;
+}
